@@ -1,0 +1,8 @@
+mlnotes:
+  build: .
+  ports:
+    - "8888:8888"
+  volumes:
+  - .:/src
+  working_dir: /src/
+  command: jupyter notebook --ip=0.0.0.0 --allow-root
