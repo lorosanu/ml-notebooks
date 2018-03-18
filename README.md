@@ -1,6 +1,6 @@
 # Machine learning notebooks
 
-This repository contains Jupyter notebooks implementing code samples for some machine learning algorithms.
+This repository contains Jupyter notebooks implementing code samples for some machine learning algorithms.  
 These notebooks use Python 3.5 and Scikit-learn 0.19.1
 
 ## Table of contents
@@ -34,4 +34,5 @@ These notebooks use Python 3.5 and Scikit-learn 0.19.1
 
 * The jupyter notebook will be available at `http://0.0.0.0:8888/?token=6a99...`
 
-* __Note__: Mac and Windown users will have to find the IP address of docker-machine VM and replace 'localhost' with it. More [here](https://docs.docker.com/docker-for-windows/troubleshoot/#limitations-of-windows-containers-for-localhost-and-published-ports).
+* __Note__: Mac and Windown users will have to find the IP address of docker-machine VM and replace 'localhost' with it.  
+More [here](https://docs.docker.com/docker-for-windows/troubleshoot/#limitations-of-windows-containers-for-localhost-and-published-ports).
